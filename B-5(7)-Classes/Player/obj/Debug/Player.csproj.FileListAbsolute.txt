@@ -1,0 +1,7 @@
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\bin\Debug\Player.exe.config
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\bin\Debug\Player.exe
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\bin\Debug\Player.pdb
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\obj\Debug\Player.csprojAssemblyReference.cache
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\obj\Debug\Player.exe
+D:\Projects\Classes_17_12\B-5(7)-Classes\Player\obj\Debug\Player.pdb
